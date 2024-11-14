@@ -1,15 +1,15 @@
 
 ---
 
-## GitHub Animations
+## FREE OPEN-AI API'S
 
 ![GitHub Animation](https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F3927338786-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FROMd1X5PuqtikJ48n2N9%252Fuploads%252F88Qvg2NsIg7zP5c5e9ON%252Fimage.png%3Falt%3Dmedia%26token%3Dc042ac97-4bcf-478c-a269-1af5d30cee66&width=768&dpr=1&quality=100&sign=25f65aaa&sv=1)
 
 This documentation provides a comprehensive guide to getting started with the AI/ML API, including generating an API key, configuring the base URL, making your first API call, and running a simple Python application. ```markdown
-# AI/ML API Documentation
+# MY Documentation-----STAR MY PROJECT IF YOU FIND IT USEFULL
 
 ## Profile Update
-I have changed my GitHub profile from **dan1471** to **nyonks**.
+I have changed my GitHub profile from **dan1471** to **nyonge**.
 
 ---
 
@@ -173,17 +173,17 @@ Let's start from the very beginning. We assume you already installed Python (wit
     python3 ./travel.py
     ```
 
-If you have done everything correctly, you will see the following output:
-:User Tell me about San Francisco AI: San Francisco, located in northern California, USA, is a vibrant and culturally rich city known for its iconic landmarks, beautiful vistas, and diverse neighborhoods. It's a popular tourist destination famous for its iconic Golden Gate Bridge, which spans the entrance to the San Francisco Bay, and the iconic Alcatraz Island, home to the infamous federal prison.
+**If you have done everything correctly, you will see the following output:**
+--:User Tell me about San Francisco AI: San Francisco, located in northern California, USA, is a vibrant and culturally rich city known for its iconic landmarks, beautiful vistas, and diverse neighborhoods. It's a popular tourist destination famous for its iconic Golden Gate Bridge, which spans the entrance to the San Francisco Bay, and the iconic Alcatraz Island, home to the infamous federal prison.
 
 The city's famous hills offer stunning views of the bay and the cityscape. Lombard Street, the "crookedest street in the world," is a must-see attraction, with its zigzagging pavement and colorful gardens. Ferry Building Marketplace is a great place to explore local food and artisanal products, and the Pier 39 area is home to sea lions, shops, and restaurants.
 
-San Francisco's diverse neighborhoods each have their unique character. The historic Chinatown is the oldest in North America, while the colorful streets of the Mission District are known for their murals and Latin American culture. The Castro District is famous for its LGBTQ+ community and vibrant nightlife.
+San Francisco's diverse neighborhoods each have their unique character. The historic Chinatown is the oldest in North America, while the colorful streets of the Mission District are known for their murals and Latin American culture. The Castro District is famous for its LGBTQ+ community and vibrant nightlife.--
   
 ---
 
 ## GitHub Animations
 
-![GitHub Animation](https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F3927338786-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FROMd1X5PuqtikJ48n2N9%252Fuploads%252F88Qvg2NsIg7zP5c5e9ON%252Fimage.png%3Falt%3Dmedia%26token%3Dc042ac97-4bcf-478c-a269-1af5d30cee66&width=768&dpr=1&quality=100&sign=25f65aaa&sv=1)
+![my pltform](https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F3927338786-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FROMd1X5PuqtikJ48n2N9%252Fuploads%252F88Qvg2NsIg7zP5c5e9ON%252Fimage.png%3Falt%3Dmedia%26token%3Dc042ac97-4bcf-478c-a269-1af5d30cee66&width=768&dpr=1&quality=100&sign=25f65aaa&sv=1)
 
-This documentation provides a comprehensive guide to getting started with the AI/ML API, including generating an API key, configuring the base URL, making your first API call, and running a simple Python application.
+**This documentation provides a comprehensive guide to getting started with the FREE API, including generating an API key, configuring the base URL, making your first API call, and running YOUR PROJECTS**.
