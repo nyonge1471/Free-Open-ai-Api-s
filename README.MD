@@ -182,8 +182,13 @@ San Francisco's diverse neighborhoods each have their unique character. The hist
   
 ---
 
-## GitHub Animations
+## 
+ 
+---
 
-![my pltform](https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F3927338786-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FROMd1X5PuqtikJ48n2N9%252Fuploads%252F88Qvg2NsIg7zP5c5e9ON%252Fimage.png%3Falt%3Dmedia%26token%3Dc042ac97-4bcf-478c-a269-1af5d30cee66&width=768&dpr=1&quality=100&sign=25f65aaa&sv=1)
+## 
 
+![GitHub Animation](https://docs.aimlapi.com/~gitbook/image?url=https%3A%2F%2F3927338786-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FROMd1X5PuqtikJ48n2N9%252Fuploads%252F88Qvg2NsIg7zP5c5e9ON%252Fimage.png%3Falt%3Dmedia%26token%3Dc042ac97-4bcf-478c-a269-1af5d30cee66&width=768&dpr=1&quality=100&sign=25f65aaa&sv=1)
+
+This documentation provides a comprehensive guide to getting started with the AI/ML API, including generating an API key, configuring the base URL, making your first API call, and running a simple Python application.
 **This documentation provides a comprehensive guide to getting started with the FREE API, including generating an API key, configuring the base URL, making your first API call, and running YOUR PROJECTS**.
